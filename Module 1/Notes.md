@@ -29,7 +29,7 @@ Maintance
 
 - Stakeholder feedback, issues/bugs identified, code enhancements suggested
 
-![alt text](image.png)
+![alt text](SDLC.png)
 
 ### Building Quality Software
 
@@ -52,3 +52,13 @@ General Availability
 
 - Stable
 - All users
+
+### Requirements
+
+> ### Steps to gathering requirements
+>
+> ![alt text](<Ideintifying Stakeholders.png>) > ![alt text](<Ideintifying Stakeholders.png>) > ![alt text](<Eliciting, documenting, confirming.png>)
+>
+> ### Requirements documentation
+>
+> ![alt text](SRS.png) > ![alt text](SRS2.png) > ![alt text](URS.png) > ![alt text](SysRS.png)
